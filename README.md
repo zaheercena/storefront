@@ -1,2 +1,0 @@
-# storefront
-Online Store
